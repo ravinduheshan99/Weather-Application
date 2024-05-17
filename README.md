@@ -12,6 +12,8 @@ I would like to express my gratitude to the following resources and individuals 
 ## Demo
 ![demo](https://github.com/ravinduheshan99/Weather-Application/blob/main/assets/videos/demo.gif)
 
+---
+
 ## Features
 
 **Real-time Weather Data:** Fetches current weather information based on the user's input location.
